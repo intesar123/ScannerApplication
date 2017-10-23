@@ -1,0 +1,1 @@
+182.50.135.105|80|DESKTOP-RDSB22D\SQLSERVER|apmetro|sa|Hello@123|0|ImageTab|imagefile|id|0
